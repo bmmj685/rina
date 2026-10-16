@@ -1,0 +1,8 @@
+{
+  "name": "Kate's Homemade Cheese Cake",
+  "short_name": "Kate's",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#fff8ee",
+  "theme_color": "#4b211b"
+}
